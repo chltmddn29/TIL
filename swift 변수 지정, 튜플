@@ -48,10 +48,10 @@ double = 64 bit, float = 32 bit
     
 - 튜플 값 따로 사용(인덱스로)
     
-    print("this error is\(http500Error.0)")
+    print("this error is\(http404Error.0)")
     
     0번 인덱스에 있는 값 나옴
-    print("this error is\(http500Error.1)")
+    print("this error is\(http404Error.1)")
     
     1번 인덱스에 있는 값 나옴
     
